@@ -530,7 +530,7 @@ button,input,select,textarea {
 }
 
 .marquee span {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     font-size: 26px;
     font-style: italic;
     color: #d7cec3;
@@ -779,7 +779,7 @@ button,input,select,textarea {
 }
 
 .price-feature h3 {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     font-size: clamp(90px,10vw,160px);
     line-height: .8;
     margin: 0 0 22px;
