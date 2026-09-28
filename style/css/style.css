@@ -68,7 +68,7 @@ button,input,select,textarea {
 }
 
 .preloader-mark span {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     font-size: clamp(56px,10vw,130px);
     letter-spacing: .08em
 }
@@ -168,7 +168,7 @@ button,input,select,textarea {
 }
 
 .brand-copy strong {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     letter-spacing: .1em;
     font-size: 22px
 }
@@ -273,7 +273,7 @@ button,input,select,textarea {
 }
 
 .mobile-menu>a {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     font-size: clamp(36px,10vw,64px);
     padding: 11px 0
 }
@@ -469,7 +469,7 @@ button,input,select,textarea {
 }
 
 .hero-badge span {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     font-size: 42px;
     color: var(--bronze2)
 }
@@ -598,7 +598,7 @@ button,input,select,textarea {
 .stat strong {
     display: block;
     font-size: clamp(44px,5vw,76px);
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: var(--bronze2)
 }
 
@@ -702,7 +702,7 @@ button,input,select,textarea {
 .service-from {
     display: block;
     margin-top: 28px;
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: var(--bronze2);
     font-size: 26px
 }
@@ -877,7 +877,7 @@ button,input,select,textarea {
 }
 
 .price-row>strong {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: var(--bronze2);
     font-size: 22px;
     text-align: right
@@ -903,7 +903,7 @@ button,input,select,textarea {
 
 .vehicle-prices em {
     font-style: normal;
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: var(--bronze2);
     font-size: 17px
 }
@@ -1016,7 +1016,7 @@ button,input,select,textarea {
 }
 
 .step>span {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: var(--bronze2);
     font-size: 28px
 }
@@ -1153,7 +1153,7 @@ footer a:hover {
 }
 
 .footer-brand {
-    font-family: "Playfair Display",serif;
+    font-family: "Prosto One",serif;
     color: #e7dfd5;
     font-size: 20px
 }
